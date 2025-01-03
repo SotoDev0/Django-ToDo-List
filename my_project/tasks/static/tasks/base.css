@@ -1,0 +1,16 @@
+body{
+    background-color: #0A1828;
+}
+
+.nav li a{
+    color: #178582;
+    font-weight: bold;
+    margin: 30px;
+    font-size: 18px;
+}
+
+hr{
+    height: 4px;
+    background-color: #BFA181;
+    margin: 0px 10px 50px 10px;
+}
